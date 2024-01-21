@@ -5,7 +5,7 @@ const deps = require("./package.json").dependencies;
 // const { MFLiveReloadPlugin } = require("@module-federation/fmr");
 module.exports = {
   output: {
-    publicPath: "http://localhost:3002/",
+    publicPath: "https://micro-frontend-store-seven.vercel.app/",
   },
 
   resolve: {
